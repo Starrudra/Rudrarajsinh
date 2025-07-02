@@ -1,0 +1,132 @@
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .subheading {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    color: #444;
+  }
+  
+  /* Form Styling */
+  .form_wrapper {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .create_btn {
+    padding: 10px;
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.2s;
+  }
+  
+  .create_btn:hover {
+    background: #218838;
+  }
+  
+  /* Table Wrapper for responsiveness */
+  .table_wrapper {
+    margin-top: 20px;
+    overflow-x: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Table Styling */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  /* Header Styling */
+  .table th {
+    background: #007bff;
+    color: white;
+    padding: 12px;
+    text-align: left;
+    font-size: 1rem;
+  }
+  
+  /* Table Rows */
+  .table tr {
+    transition: background 0.2s ease-in-out;
+  }
+  
+  .table tr:hover {
+    background: #f8f9fa;
+  }
+  
+  /* Table Cells */
+  .table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    font-size: 1rem;
+  }
+  
+  /* Action Buttons */
+  .delete_btn {
+    padding: 6px 12px;
+    background: #dc3545;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.2s;
+  }
+  
+  .delete_btn:hover {
+    background: #c82333;
+  }
+  
+  /* No Data Found */
+  .no_data {
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+    color: #888;
+  }
+  
+  /* Success & Error Messages */
+  .success_msg {
+    color: #28a745;
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
+  .error_msg {
+    color: #dc3545;
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  

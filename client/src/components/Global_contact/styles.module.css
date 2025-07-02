@@ -1,0 +1,69 @@
+
+.contactContainer {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.3); /* Slightly more visible */
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    backdrop-filter: blur(15px); /* Stronger blur */
+}
+
+/* ✅ Title Styling */
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    color: #000000; /* Black color */
+    text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.5);
+}
+
+/* ✅ Contact List Layout */
+.contactList {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* ✅ Individual Contact Card */
+.contactCard {
+    background: rgba(255, 255, 255, 0.2); /* Slightly more solid */
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    transition: all 0.3s ease-in-out;
+    backdrop-filter: blur(10px);
+}
+
+.contactCard:hover {
+    transform: scale(1.02);
+    background: rgba(255, 255, 255, 0.4);
+}
+
+/* ✅ Contact Card Text */
+.contactCard h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: #000000; /* Black color */
+    font-weight: bold;
+}
+
+.contactCard p {
+    font-size: 16px;
+    margin: 4px 0;
+    color: #000000; /* Black color */
+}
+
+/* ✅ Responsive Design */
+@media (max-width: 600px) {
+    .contactContainer {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .contactCard {
+        padding: 12px;
+    }
+}
+

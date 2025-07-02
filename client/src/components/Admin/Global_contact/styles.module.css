@@ -1,0 +1,146 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 40px 5%;
+    box-sizing: border-box;
+  }
+  
+  /* ✅ Form Container */
+  .formContainer {
+    width: 100%;
+    max-width: 800px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .form input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .form button {
+    width: 100%;
+    padding: 16px; /* Bigger padding */
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px; /* Bigger text */
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .form button:hover {
+    background: #0056b3;
+  }
+  
+  /* ✅ Contact List Section */
+  .contactListContainer {
+    width: 100%;
+    max-width: 800px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* ✅ Contact Card */
+  .contactCard {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  /* ✅ Buttons: Even Bigger! */
+  .contactCard .buttonGroup {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    justify-content: space-around;
+  }
+  
+  .contactCard button {
+    width: 40%; /* Ensures equal width */
+    padding: 12px; /* Bigger padding */
+    font-size: 18px; /* Larger text */
+    font-weight: bold;
+    border: none;
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+  }
+  
+  .contactCard button:hover {
+    transform: scale(1.05);
+  }
+  
+  /* ✅ Edit Button */
+  .contactCard .editBtn {
+    background: #28a745;
+    color: white;
+  }
+  
+  .contactCard .editBtn:hover {
+    background: #218838;
+  }
+  
+  /* ✅ Delete Button */
+  .contactCard .deleteBtn {
+    background: #dc3545;
+    color: white;
+  }
+  
+  .contactCard .deleteBtn:hover {
+    background: #c82333;
+  }
+  
+  .contactCard h3 {
+    font-size: 22px; /* Increased from default */
+    font-weight: bold;
+  }
+  
+  .contactCard p {
+    font-size: 18px; /* Increased from default */
+    color: #444;
+  }
+  
+  .contactCard button {
+    font-size: 16px; /* Slightly bigger buttons */
+    padding: 10px 15px;
+  }
+  
+  /* ✅ Responsive Design */
+  @media (max-width: 768px) {
+    .container {
+      padding: 20px;
+    }
+  
+    .formContainer,
+    .contactListContainer {
+      width: 100%;
+      padding: 20px;
+    }
+  
+    .contactCard .buttonGroup {
+      flex-direction: column;
+    }
+  
+    .contactCard button {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  
