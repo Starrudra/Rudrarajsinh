@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "67019d5442b9e1ace21ba04a"
+  },
+  "boxes": [
+    {
+      "title": "Trending",
+      "subtitles": [
+        {
+          "subtitle": "wwoommeenn",
+          "products": [
+            {
+              "$oid": "661fd06b83efb24e468968e0"
+            },
+            {
+              "$oid": "661fcfe183efb24e468968c8"
+            },
+            {
+              "$oid": "661fd09383efb24e468968e8"
+            },
+            {
+              "$oid": "661fd04283efb24e468968d8"
+            },
+            {
+              "$oid": "661fd0d283efb24e468968f0"
+            },
+            {
+              "$oid": "661fd12e83efb24e468968f8"
+            },
+            {
+              "$oid": "661fd15d83efb24e46896900"
+            },
+            {
+              "$oid": "661fd19283efb24e46896908"
+            },
+            {
+              "$oid": "661fd45e83efb24e4689691d"
+            }
+          ],
+          "_id": {
+            "$oid": "670b5757bfc20c0b1b321506"
+          }
+        },
+        {
+          "subtitle": "Mens",
+          "products": [
+            {
+              "$oid": "66338288534c1bb83cc6cc40"
+            },
+            {
+              "$oid": "6633826d534c1bb83cc6cc38"
+            },
+            {
+              "$oid": "66338252534c1bb83cc6cc30"
+            },
+            {
+              "$oid": "66338235534c1bb83cc6cc28"
+            },
+            {
+              "$oid": "66338207534c1bb83cc6cc20"
+            }
+          ],
+          "_id": {
+            "$oid": "670b5757bfc20c0b1b321507"
+          }
+        }
+      ],
+      "showMore": false,
+      "_id": {
+        "$oid": "670b5757bfc20c0b1b321505"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-05T20:11:00.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T05:15:03.040Z"
+  },
+  "__v": 6
+}]

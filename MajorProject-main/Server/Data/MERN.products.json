@@ -1,0 +1,594 @@
+[{
+  "_id": {
+    "$oid": "661fcfe183efb24e468968c8"
+  },
+  "name": "Yellow White Kurti",
+  "slug": "Yellow-White-Kurti",
+  "description": "Mango Yellow Kurti for women with White Designs",
+  "price": 1199,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 48,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360822/yellow_gsqe22.webp",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:34:25.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:34:25.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd04283efb24e468968d8"
+  },
+  "name": "Sky Blue Green Kurti",
+  "slug": "Sky-Blue-Green-Kurti",
+  "description": "Sky Blue Kurti with Cream Design for Women",
+  "price": 1999,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360821/sky_blue_befzvn.webp",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:36:02.875Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:36:02.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd06b83efb24e468968e0"
+  },
+  "name": "Peach Kurti",
+  "slug": "Peach-Kurti",
+  "description": "Peach color kurti with black design for Women",
+  "price": 2999,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360440/-473Wx593H-466664366-pink-MODEL_1_khbyai.avif",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:36:43.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:36:43.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd09383efb24e468968e8"
+  },
+  "name": "Pink Kurti",
+  "slug": "Pink-Kurti",
+  "description": "Pink Color Kurti Plain for Women",
+  "price": 1599,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360440/xl-pcsh4-pc-kurtis-original-imags7jg6ex3n3gt_d1dawi.webp",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:37:23.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:37:23.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd0d283efb24e468968f0"
+  },
+  "name": "Orange Kurti",
+  "slug": "Orange-Kurti",
+  "description": "Orange Kurti Plain for Women",
+  "price": 999,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360817/orange_uu1dqi.webp",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:38:26.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:38:26.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd12e83efb24e468968f8"
+  },
+  "name": "Black Plain Kurti",
+  "slug": "Black-Plain-Kurti",
+  "description": "Black Color Plain Kurti for Women",
+  "price": 1899,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360817/black_w2enrr.webp",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:39:58.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:39:58.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd15d83efb24e46896900"
+  },
+  "name": "Blue Designer Kurti",
+  "slug": "Blue-Designer-Kurti",
+  "description": "Blue Color White Design Designer Kurti for Women",
+  "price": 1299,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360816/white_blue_ozcdzm.webp",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:40:45.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:40:45.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd19283efb24e46896908"
+  },
+  "name": "Black Designer Kurti",
+  "slug": "Black-Designer-Kurti",
+  "description": "Black color white Design designer Kurti for Women",
+  "price": 2999,
+  "category": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713360439/MP000000008460946_437Wx649H_202205181102351_nviiti.webp",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:41:38.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:41:38.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd45e83efb24e4689691d"
+  },
+  "name": "Cream Yellow Saree",
+  "slug": "Cream-Yellow-Saree",
+  "description": "Cream Yellow Saree Royal Look for Women",
+  "price": 3999,
+  "category": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713361742/saree7_ekhor5.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:53:34.147Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:53:34.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd5c683efb24e46896947"
+  },
+  "name": "Royal Green Saree",
+  "slug": "Royal-Green-Saree",
+  "description": "Royal Green And Black Saree for Women",
+  "price": 4999,
+  "category": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713361743/saree6_pczipm.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T13:59:34.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T13:59:34.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd72383efb24e4689694f"
+  },
+  "name": "Royal Blue Saree",
+  "slug": "Royal-Blue-Saree",
+  "description": "Royal Blue Saree and Gray for Women",
+  "price": 8999,
+  "category": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713361747/saree4_zxyx19.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T14:05:23.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T14:05:23.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd75783efb24e46896957"
+  },
+  "name": "Multicolor Saree",
+  "slug": "Multicolor-Saree",
+  "description": "Royal green and red border saree for women",
+  "price": 9999,
+  "category": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713361748/saree3_pxq7yy.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T14:06:15.803Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T14:06:15.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd78b83efb24e4689695f"
+  },
+  "name": "Royal Orange Saree",
+  "slug": "Royal-Orange-Saree",
+  "description": "Royal orange Saree for women",
+  "price": 4999,
+  "category": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713361751/saree2_biafjb.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T14:07:07.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T14:07:07.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd7e383efb24e46896967"
+  },
+  "name": "Black Saree ",
+  "slug": "Black-Saree",
+  "description": "Black Saree for Women ",
+  "price": 1999,
+  "category": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713361747/saree5_cz2kwc.avif",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T14:08:35.236Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T14:08:35.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fd80d83efb24e4689696f"
+  },
+  "name": "Royal Maroon Saree",
+  "slug": "Royal-Maroon-Saree",
+  "description": "Royal Maroon Black Saree For Women",
+  "price": 8999,
+  "category": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1713361753/saree1_wgwahu.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-04-17T14:09:17.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T14:09:17.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663380ed534c1bb83cc6cbcf"
+  },
+  "name": "Checked Red Blue Shirt",
+  "slug": "Checked-Red-Blue-Shirt",
+  "description": "djhjkd fsdhkjnds vbhdsn kjnds vgknd cbknd jchkbjn dsjvhcbnds cbds kcdshbcnj jdn",
+  "price": 1199,
+  "category": {
+    "$oid": "65b201ac9fdef43813b1a133"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651301/s1_ob1dsw.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:02:53.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:02:53.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66338113534c1bb83cc6cbdf"
+  },
+  "name": "Chess Checked Shirt",
+  "slug": "Chess-Checked-Shirt",
+  "description": "sdhkbfjmf svnds vnsfvn dsvkjdsnc dsjknds  v jhdsn cjdshn djkndsvkx nbdih",
+  "price": 999,
+  "category": {
+    "$oid": "65b201ac9fdef43813b1a133"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651300/s6_jm6wm7.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:03:31.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:03:31.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66338134534c1bb83cc6cbe7"
+  },
+  "name": "Black White Shirt",
+  "slug": "Black-White-Shirt",
+  "description": "dfjn dhf dskhbhdknc dsjkcj dbsjhkjbnd vjc vndmchjkjc ",
+  "price": 899,
+  "category": {
+    "$oid": "65b201ac9fdef43813b1a133"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651300/s2_ne7lub.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:04:04.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T13:36:03.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66338162534c1bb83cc6cbf4"
+  },
+  "name": "Plain Gray Shirt",
+  "slug": "Plain-Gray-Shirt",
+  "description": "jd dfjkds dsjhkbcn dhcbknd jchkjdsnc dcbdskn kdn cjhkdsjc jkjndc ",
+  "price": 1999,
+  "category": {
+    "$oid": "65b201ac9fdef43813b1a133"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651300/s3_pmhla5.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:04:50.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:04:50.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633817e534c1bb83cc6cbfc"
+  },
+  "name": "Plain Maroon Shirt",
+  "slug": "Plain-Maroon-Shirt",
+  "description": "djkm fndjvkv dhcdsj cjdchsdcdnc djhcjnds jch dshcds  jhckjnjds clds cc",
+  "price": 1999,
+  "category": {
+    "$oid": "65b201ac9fdef43813b1a133"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651300/s4_rtkfru.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:05:18.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:05:18.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663381bf534c1bb83cc6cc0e"
+  },
+  "name": "White Checked Shirt",
+  "slug": "White-Checked-Shirt",
+  "description": "djkmd dskjcnds cnd vjbcgdsc gdj scghds chjkjd c dsc ",
+  "price": 899,
+  "category": {
+    "$oid": "65b201ac9fdef43813b1a133"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651299/s5_g9wxhc.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:06:23.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:06:23.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663381e4534c1bb83cc6cc16"
+  },
+  "name": "White Black Tshirt",
+  "slug": "White-Black-Tshirt",
+  "description": "DJFMD NSDHKJD Cs cjkv jxchkjn csjhvkjnjchkns dckds",
+  "price": 599,
+  "category": {
+    "$oid": "65b201b39fdef43813b1a137"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651300/t1_b9zjzt.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:07:00.844Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:07:00.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66338207534c1bb83cc6cc20"
+  },
+  "name": "Black Gray Tshirt",
+  "slug": "Black-Gray-Tshirt",
+  "description": "sdjdvkmsdn vsfhvknf vkvn hfkjkv djskjn dsjnkkmckh dsjvmcds jnvvm",
+  "price": 599,
+  "category": {
+    "$oid": "65b201b39fdef43813b1a137"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651299/t3_gvq7ml.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:07:35.544Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:07:35.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66338235534c1bb83cc6cc28"
+  },
+  "name": "Full Sleeve Black White Tshirt",
+  "slug": "Full-Sleeve-Black-White-Tshirt",
+  "description": "jnds dfhvnd vsjbdsv vj dkjvbd skvbdn vdhvnds kvjndsvh dshvbd svbdnsvkn dsvdsjvj djvhj ccdkb",
+  "price": 899,
+  "category": {
+    "$oid": "65b201b39fdef43813b1a137"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651299/t2_cvah64.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:08:21.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:08:21.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66338252534c1bb83cc6cc30"
+  },
+  "name": "Black Puma Tshirt",
+  "slug": "Black-Puma-Tshirt",
+  "description": "hd cdjsbcndsn dsnjc ds jdskjnc dscb ds jhdsn cjhkjds cjdsn bcds cdscbj c djscdsjbc ",
+  "price": 1899,
+  "category": {
+    "$oid": "65b201b39fdef43813b1a137"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651298/t6_wcoorp.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:08:50.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:08:50.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633826d534c1bb83cc6cc38"
+  },
+  "name": "Pink Polo Tshirt",
+  "slug": "Pink-Polo-Tshirt",
+  "description": "ddn cdjsvdsnv dskv dsv dsvn jbdsv",
+  "price": 799,
+  "category": {
+    "$oid": "65b201b39fdef43813b1a137"
+  },
+  "quantity": 50,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651299/t5_pngqgm.jpg",
+  "shipping": "Yes",
+  "createdAt": {
+    "$date": "2024-05-02T12:09:17.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:09:17.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66338288534c1bb83cc6cc40"
+  },
+  "name": "Blue Tshirt",
+  "slug": "Blue-Tshirt",
+  "description": "dsjnd nds jdsv dsj dcnkdj cdskjc bdsjn ds cdbsjvd",
+  "price": 199,
+  "category": {
+    "$oid": "65b201b39fdef43813b1a137"
+  },
+  "quantity": 500,
+  "photo": "https://res.cloudinary.com/djmogn92l/image/upload/v1714651298/t7_ddd0xt.jpg",
+  "shipping": "No",
+  "createdAt": {
+    "$date": "2024-05-02T12:09:44.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T12:09:44.524Z"
+  },
+  "__v": 0
+}]

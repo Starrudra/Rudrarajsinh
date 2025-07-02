@@ -1,0 +1,80 @@
+.T {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  color: rgba(44, 10, 107, 0.959);
+}
+.TT {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 30px;
+  color: rgba(44, 10, 107, 0.959);
+  text-align: center;
+}
+.maincat {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: rgb(236, 231, 224);
+}
+.Tcard {
+  box-shadow: 2px 2px 2px 2px rgb(226, 220, 220);
+}
+.B {
+  /* justify-content: center; */
+  /* margin-top: 150px; */
+}
+.pC {
+  overflow-x: scroll;
+
+  align-items: center;
+}
+/* ::-webkit-scrollbar {
+  display: none;
+} */
+.showMore {
+  padding: 10px 20px;
+  background-color: rgb(236, 231, 224);
+  color: rgba(44, 10, 107, 0.959);
+  border: 2px solid rgba(44, 10, 107, 0.959);
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s, color 0.3s;
+}
+.showMore:hover {
+  background-color: rgba(44, 10, 107, 0.959);
+  color: rgb(236, 231, 224);
+}
+@media (max-width: 614px) and (min-width: 200px) {
+  .showMore {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+}
+.newArrival {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+  color: rgba(44, 10, 107, 0.959) !important;
+  text-align: center;
+}
+/* homepage.css */
+.homepage-boxes {
+  margin: 20px 0;
+}
+
+.box-container {
+  background-color: #f9f9f9; /* Light background for separation */
+  border-radius: 8px; /* Rounded corners */
+  padding: 15px; /* Inner spacing */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.box-title {
+  font-size: 1.5rem; /* Adjust font size for titles */
+  margin-bottom: 10px; /* Space below title */
+}

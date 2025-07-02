@@ -1,0 +1,39 @@
+/* Custom CSS */
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.product-details {
+  width: 150px; /* Adjust the width as needed */
+  text-align: center;
+}
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.modal-content {
+  border-radius: 10px;
+}
+
+.modal-header {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.modal-footer {
+  border-top: none;
+}
+
+.modal-footer button {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.modal-footer button:hover {
+  background-color: #5a6268;
+}

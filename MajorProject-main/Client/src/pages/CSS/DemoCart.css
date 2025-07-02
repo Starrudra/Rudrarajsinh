@@ -1,0 +1,28 @@
+/* src/components/CartPage.css */
+.cart-card {
+  width: 100%; /* Set the width to full within the column */
+  max-width: 250px; /* Adjust the maximum width to make the card smaller */
+  margin: auto; /* Center the card within the column */
+}
+
+.cart-card img {
+  max-height: 250px; /* Adjust the image height to fit the smaller card */
+  /* Ensure the image covers the designated area without distortion */
+}
+.quantity-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-buttons button {
+  margin: 0 5px;
+}
+
+.quantity-input {
+  text-align: center;
+  width: 50px;
+  margin: 0 5px;
+}
+.cardTitle {
+  font-size: 14px;
+}

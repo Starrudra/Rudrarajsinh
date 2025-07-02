@@ -1,0 +1,414 @@
+[{
+  "_id": {
+    "$oid": "6508774ba8b1bb31b67b1fb6"
+  },
+  "name": "Darshan",
+  "email": "DT@2573.com",
+  "password": "$2b$10$tO4HY41j0OXTbxebHQMVkexN93V7lVFLTxsamb.rz5w/cXAPyrM6G",
+  "phone": "9726786899",
+  "address": "Junagadh",
+  "role": 1,
+  "createdAt": {
+    "$date": "2023-09-18T16:14:03.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-11T05:43:40.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65087ac7766c5df879360640"
+  },
+  "name": "Darsjam",
+  "email": "darshan25503@gmail.comm",
+  "password": "$2b$10$P8hz4BVH3N05ssj2OYRBjeQ5jjROKLBG76BJ8LkPYowGSgREM/5ui",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-09-18T16:28:55.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T16:28:55.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651a79feac567e05416fd371"
+  },
+  "name": "Darshan Patel",
+  "email": "21it4444x26@bvmeengineering.ac.in",
+  "password": "$2b$10$X4/BzWMlNRHblR5t5y/42uAsRyE45uN/YNeZZg8TLkMLtOGIcsmXK",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-10-02T08:06:22.873Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T08:06:22.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651a7a12ac567e05416fd374"
+  },
+  "name": "Darshan Patel",
+  "email": "21it4444x266@bvmeengineering.ac.in",
+  "password": "$2b$10$jk4X5xWfJrmb.KZpDN2gFOYWbobw0iDfv3for1ffJFxagA2QJP7cm",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-10-02T08:06:42.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T08:06:42.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6523ed0db3690ff6418612a5"
+  },
+  "name": "Arpan",
+  "email": "arpan@123.com",
+  "password": "$2b$10$56hN3Rv7goCoE31Hf5Wgj./cTsRTZXVNSgXieNLd.LVL/mm9G8WUW",
+  "phone": "9726786899",
+  "address": "Rajkot",
+  "role": 1,
+  "createdAt": {
+    "$date": "2023-10-09T12:07:41.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-13T09:12:41.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6525505679e90c798fd3ea9c"
+  },
+  "name": "Darshan Bhensdadia",
+  "email": "darshanV@25503",
+  "password": "$2b$10$QYQRuW3urwrK8Y2FswumlexNdBNq4hS6NsVaxmCBIlLrYsGgSFZeG",
+  "phone": "9726786899",
+  "address": "Anand",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-10-10T13:23:34.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-10T13:23:34.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653fad817dc92238249df739"
+  },
+  "name": "Darshan",
+  "email": "Dp@2550325703",
+  "password": "$2b$10$fzC638WEva523/7Vjhl/IuFZboyUVFQW6e4az3XT2H/XAWDAQuIA2",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 1,
+  "createdAt": {
+    "$date": "2023-10-30T13:20:01.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-30T13:20:01.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653fb6c2a7a399e78055e840"
+  },
+  "name": "hello",
+  "email": "hello@hello",
+  "password": "$2b$10$eey0pDdHzZjGCG2aos4dbOSLXq6c34KkgOuLov85mtAxc3RSBgkzO",
+  "phone": "9784561023",
+  "address": "hdhdh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-10-30T13:59:30.036Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-30T13:59:30.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653fb6f0a7a399e78055e845"
+  },
+  "name": "hdgg",
+  "email": "hello@hello@",
+  "password": "$2b$10$Sz9dzhjzD8ZZ10mLkeI6S.b5l9J5CT9Bqv3EWA1nHWPvdvecw18d6",
+  "phone": "978456123",
+  "address": "hdhd",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-10-30T14:00:16.146Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-30T14:00:16.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654f038d603fa48c23ea6e84"
+  },
+  "name": "Darshan patelll",
+  "email": "user@user.com",
+  "password": "$2b$10$r4dfazsv3tPSv23NnpQhPukmIxjvOwNpnjptn14zvMkqntvb/qA92",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-11-11T04:31:09.627Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T06:13:25.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654f03e7603fa48c23ea6e8a"
+  },
+  "name": "Darshan",
+  "email": "admin@admin.com",
+  "password": "$2b$10$oC0XUL3bS7XXrjskjaPHBuuSs0FX6pie.RcolnewOKNLjI61O/XXq",
+  "phone": "9726786898",
+  "address": "junagadh",
+  "role": 1,
+  "createdAt": {
+    "$date": "2023-11-11T04:32:39.287Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-27T05:43:00.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579f10c3c4b18aec3a18b33"
+  },
+  "name": "Admin",
+  "email": "admin@adminnn.com",
+  "password": "$2b$10$9fJ4BvXeNwKN5xo.cr3jo.Hu4vEosAXZq2.sQjJP8k/5SRSw.WAV.",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-12-13T17:59:40.369Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T17:59:40.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579f2133c4b18aec3a18b36"
+  },
+  "name": "Darshan Bhensdadia",
+  "email": "hello@hello123.com",
+  "password": "$2b$10$UYsJY6XXXhGgJmOZLk4eROKtIDQuYTVpPOTInu2nAB3vINGVEtKW6",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2023-12-13T18:04:03.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-13T18:04:03.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593f5f965bbc902949d3927"
+  },
+  "name": "Admin",
+  "email": "admin@addminnn.com",
+  "password": "$2b$10$3WZtmistRdeOOHJ0wlbFUuTsJfPM6Qeegida4H8vA7Cn0PF5xblIa",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-01-02T11:39:37.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T11:39:37.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b096994442a74c207c60e0"
+  },
+  "name": "Darshan",
+  "email": "darshan25503@gmail.com",
+  "password": "$2b$10$OhDu/GsLzvHuiClDDyoOnOs9kqwvd3xXnKiJpJhp3IOVm6/Eqq2MS",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-01-24T04:48:25.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T04:48:25.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c742d9ac7236ce0e67978e"
+  },
+  "name": "Vasu",
+  "email": "depanivasu1510@gmail.com",
+  "password": "$2b$10$hSCE4xBU8cYogvR9GpVpluHXCPDjFjo/rz3s6cJUygtDY.kyt6oPi",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-02-10T09:33:13.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T09:33:13.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c89929f22a41d39555c417"
+  },
+  "name": "Hemangi",
+  "email": "hemangirathod852003@gmail.com",
+  "password": "$2b$10$wWN4x/qq2cAZwGwAYQJbrO1aDCTotL6qOmQPsbvbIIPOM.aMGkNqW",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-02-11T09:53:45.964Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T09:53:45.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb994ad42173961bd2badb"
+  },
+  "name": "Darshan",
+  "email": "darshannnnnn3@gmail.com",
+  "password": "$2b$10$MxCVhCMhNQHrYZ7/B0U4KOH6chskdSfoQWxSaZAAOzfMqolz3mjke",
+  "phone": "9726786899",
+  "address": "Gujarat",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-02-13T16:31:06.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T16:31:06.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb9cebd42173961bd2bb09"
+  },
+  "name": "Jugal",
+  "email": "jugal8394@gmail.com",
+  "password": "$2b$10$/cgxhwlJ2fUlmBkP6wdCKuBkN7nqgtlK4uGjftlEHk8nHAxxssGPa",
+  "phone": "7845963210",
+  "address": "canada",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-02-13T16:46:35.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T16:46:35.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e8255f066c549a539c2640"
+  },
+  "name": "Uday Gadhvi",
+  "email": "udaybhagadhvi@gmail.com",
+  "password": "$2b$10$wQYk/j5xza81140HjZ.E1OA75z6tSJ8cFUkuAuGlyisSUsfuVufXG",
+  "phone": "9726786899",
+  "address": "junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-03-06T08:12:15.186Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T08:12:15.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7fed3f52ec97fff21d369"
+  },
+  "name": "Darshan",
+  "email": "21it426@bvmengineering.ac.in",
+  "password": "$2b$10$PwGXF1FItEJLNIzF0toWJOsnLU4ad7kR8I1WEnKkwRuME6iksTNeO",
+  "phone": "9726786899",
+  "address": "Junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-09-04T06:31:47.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T06:31:47.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d7ff14f52ec97fff21d372"
+  },
+  "name": "ehjjkdh",
+  "email": "hash@bc.c",
+  "password": "$2b$10$/uDujutUQIoIQ0DyrkveeejGVFzuaLscZ3y1hXSzMoXeaA1P3ZpHa",
+  "phone": "974853254332",
+  "address": "dghjkjld",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-09-04T06:32:52.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T06:32:52.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67017ef16c2a391558bf546f"
+  },
+  "name": "Chintan",
+  "email": "rv.chintan@gmail.com",
+  "password": "$2b$10$jyfJJAIJGhN67V1HKgvmA.5wfM.r3.On5JXQs8ErWp9XHj1Fb.Mp2",
+  "phone": "7451236980",
+  "address": "Junagadh",
+  "role": 0,
+  "createdAt": {
+    "$date": "2024-10-05T18:01:21.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T18:01:21.157Z"
+  },
+  "__v": 0
+}]

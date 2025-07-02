@@ -1,0 +1,41 @@
+.image {
+  height: 400px;
+  width: 300px;
+}
+.pNameD {
+  /* font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal; */
+  /* font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal; */
+  font-family: "Philosopher", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+.pPrice {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+.pMrp {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+}
+.pR {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 17px;
+}
+.pD {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

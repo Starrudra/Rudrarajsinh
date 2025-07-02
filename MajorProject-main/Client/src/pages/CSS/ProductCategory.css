@@ -1,0 +1,16 @@
+.prButton {
+  /* background: linear-gradient(to right, #76b4ee, #5f83f0); */
+
+  border: 0.5px solid black;
+
+  /* border-radius: 5px; */
+  font-size: 10px;
+  height: 30px;
+  width: 90px;
+  background-color: white;
+  color: black;
+}
+.prButton:hover {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65b201909fdef43813b1a127"
+  },
+  "name": "Women Kurti",
+  "slug": "women-kurti",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b201979fdef43813b1a12b"
+  },
+  "name": "Women Ethnic",
+  "slug": "women-ethnic",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b201ac9fdef43813b1a133"
+  },
+  "name": "Mens Shirt",
+  "slug": "mens-shirt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b201b39fdef43813b1a137"
+  },
+  "name": "Mens Tshirt",
+  "slug": "mens-tshirt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663397a9f5e328b9695785ae"
+  },
+  "name": "All Categories",
+  "slug": "all-categories",
+  "__v": 0
+}]

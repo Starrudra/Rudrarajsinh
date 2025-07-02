@@ -1,0 +1,12 @@
+@media (max-width: 767px) and (min-width: 200px) {
+  .Category-text,
+  .tbl {
+    width: 100% !important;
+  }
+}
+@media (max-width: 346px) and (min-width: 200px) {
+  .tbl button {
+    /* height: 25px; */
+    width: 30px;
+  }
+}

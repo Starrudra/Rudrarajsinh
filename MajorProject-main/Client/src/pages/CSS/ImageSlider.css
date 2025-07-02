@@ -1,0 +1,19 @@
+/* CSS */
+.image-slider {
+  width: 100%; /* Set the width of the slider */
+}
+
+.image-slider img {
+  width: 100%; /* Set the width of the images to fill the slider */
+  height: 450px; /* Maintain aspect ratio */
+}
+@media (max-width: 614px) and (min-width: 200px) {
+  .image-slider {
+    width: 100%; /* Set the width of the slider */
+  }
+
+  .image-slider img {
+    width: 100%; /* Set the width of the images to fill the slider */
+    height: 270px; /* Maintain aspect ratio */
+  }
+}

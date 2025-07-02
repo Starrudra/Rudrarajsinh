@@ -1,0 +1,29 @@
+/* ReviewSlider.css */
+
+.review-slider {
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+.review-content {
+  padding: 20px;
+}
+
+.rating {
+  color: gold;
+  font-size: 20px;
+}
+
+/* Adjust slider arrows */
+.slick-prev,
+.slick-next {
+  color: white;
+}
+
+/* Center the slider arrows */
+.slick-prev:before,
+.slick-next:before {
+  font-size: 20px;
+  line-height: 1;
+}
