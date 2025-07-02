@@ -1,0 +1,68 @@
+/* ✅ Full-page background image with reduced transparency */
+.appContainer {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background: url('../public/2410517.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* ✅ Add a semi-transparent overlay */
+.appContainer::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.4); /* Adjust transparency here */
+  z-index: 0;
+}
+
+/* ✅ Push content down to prevent navbar overlap */
+.contentWrapper {
+  position: relative;
+  z-index: 1; /* Ensures content appears above the overlay */
+  padding-top: 80px; /* Match with navbar height */
+}
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
